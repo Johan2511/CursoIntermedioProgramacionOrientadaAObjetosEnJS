@@ -62,7 +62,7 @@ function deepCopy(subject) {
     }
    }
 
-   return copySubject;
+   return copySubject; 
 }
 
 
